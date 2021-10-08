@@ -1,0 +1,27 @@
+{
+  "name": "learningapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahid071/learningAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahid071/learningAPI/issues"
+  },
+  "homepage": "https://github.com/nahid071/learningAPI#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
